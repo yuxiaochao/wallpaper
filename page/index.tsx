@@ -1,0 +1,3 @@
+class Index extends C{
+
+}
